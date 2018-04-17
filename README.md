@@ -1,12 +1,12 @@
-# react-native-ios-setdevice
+# react-native-ios-setfamily
 
-Command-line plugin to manage the RN app type
+Command-line plugin to manage the RN app device family (iPad, iPhone, or Universal)
 
 # Usage
 
-## react-native setdevice <ipad|iphone|universal>
+## react-native setfamily <ipad|iphone|universal>
 
-Saves the type of device you want this app to be in your package.json
+Saves the family of device you want this app to be in your package.json
 
 ## react-native link
 
