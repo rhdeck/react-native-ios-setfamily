@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-setfamily",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React-Native plugin to set device family for IOS projects",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/rhdeck/react-native-ios-setfamily.git"
   },
-  "keywords": ["react-native", "ios", "iphone", "ipad"],
+  "keywords": [
+    "react-native",
+    "ios",
+    "iphone",
+    "ipad"
+  ],
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
