@@ -10,12 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/rhdeck/react-native-ios-setfamily.git"
   },
-  "keywords": [
-    "react-native",
-    "ios",
-    "iphone",
-    "ipad"
-  ],
+  "keywords": ["react-native", "ios", "iphone", "ipad"],
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
@@ -27,7 +22,7 @@
     "xcode": "rhdeck/cordova-node-xcode"
   },
   "bin": {
-    "react-native-ios-setdevice": "bin/setdevice.js"
+    "react-native-ios-setfamily": "bin/setdevice.js"
   },
   "rnpm": {
     "plugin": "plugin.js",
