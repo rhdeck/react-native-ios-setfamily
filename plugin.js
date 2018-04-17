@@ -3,7 +3,7 @@ const fs = require("fs");
 const cp = require("child_process");
 module.exports = [
   {
-    name: "setdevice <devicetype>",
+    name: "setfamily <devicetype>",
     description: "Set iOS device type (options: iphone, ipad, universal)",
     func: (a, b, c) => {
       const input = a[0];

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ios-setdevice",
+  "name": "react-native-ios-setfamily",
   "version": "1.0.0",
   "description": "React-Native plugin to set device family for IOS projects",
   "main": "index.js",
@@ -8,24 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhdeck/react-native-ios-setdevice.git"
+    "url": "git+https://github.com/rhdeck/react-native-ios-setfamily.git"
   },
   "keywords": ["react-native", "ios", "iphone", "ipad"],
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhdeck/react-native-ios-setdevice/issues"
+    "url": "https://github.com/rhdeck/react-native-ios-setfamily/issues"
   },
-  "homepage": "https://github.com/rhdeck/react-native-ios-setdevice#readme",
+  "homepage": "https://github.com/rhdeck/react-native-ios-setfamily#readme",
   "dependencies": {
     "glob": "^7.1.2",
     "xcode": "rhdeck/cordova-node-xcode"
   },
-  "bin": {"react-native-ios-setdevice": "bin/setdevice.js"},
+  "bin": { "react-native-ios-setdevice": "bin/setdevice.js" },
   "rnpm": {
     "plugin": "plugin.js",
     "commands": {
-      "prelink": "node ./node_modules/.bin/react-native-ios-setdevice"
+      "prelink": "node ./node_modules/.bin/react-native-ios-setfamily"
     }
   }
 }
