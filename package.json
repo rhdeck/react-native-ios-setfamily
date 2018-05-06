@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-setfamily",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React-Native plugin to set device family for IOS projects",
   "main": "index.js",
   "scripts": {
