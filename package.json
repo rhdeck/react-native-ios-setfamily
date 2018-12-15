@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-setfamily",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "React-Native plugin to set device family for IOS projects",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/rhdeck/react-native-ios-setfamily#readme",
   "dependencies": {
     "glob": "^7.1.2",
-    "xcode": "rhdeck/cordova-node-xcode"
+    "@raydeck/xcode": "^2.2.0"
   },
   "bin": {
     "react-native-ios-setfamily": "bin/setdevice.js"
