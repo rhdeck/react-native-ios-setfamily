@@ -6,8 +6,6 @@ Command-line plugin to manage the RN app device family (iPad, iPhone, or Univers
 
 ## react-native setfamily <ipad|iphone|universal>
 
-Saves the family of device you want this app to be in your package.json
+Saves the family of device you want this app
 
-## react-native link
-
-Adds a pre-link hook to set the device type (defaults to universal)
+**Note this version removes support for react-native link**

@@ -28,11 +28,5 @@
   },
   "bin": {
     "react-native-ios-setfamily": "bin/setdevice.js"
-  },
-  "rnpm": {
-    "plugin": "plugin.js",
-    "commands": {
-      "prelink": "node ./node_modules/.bin/react-native-ios-setfamily"
-    }
   }
 }
